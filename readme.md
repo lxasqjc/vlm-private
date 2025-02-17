@@ -20,7 +20,7 @@
   <a href="https://arxiv.org/abs/2502.06814" target="_blank" style="margin: 2px;">
     <img alt="Paper" src="https://img.shields.io/badge/👁️ arXiv-2305.16311-b31b1b.svg" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://huggingface.co/collections/lxasqjc/lavender-diffusion-instruction-tuning-67af4dc7ec92869e73365325" target="_blank" style="margin: 2px;">
+  <a href="https://huggingface.co/collections/lxasqjc/lavender-67ab58715b58f55748342ebb" target="_blank" style="margin: 2px;">
     <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20 Hugging%20Face-Lavender%20Collections-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
