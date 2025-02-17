@@ -3,8 +3,11 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <h1 style="color: #D3A4F7;">Lavender: Diffusion Instruction Tuning</h1>
-  Boosting state-of-the-art vision-language model with Stable Diffusion
+    <div align="center">
+    <img src="images/lavender_logo_full.svg" width="60%"/>
+    </div>
+  <!-- <h1 style="color: #D3A4F7;">Lavender: Diffusion Instruction Tuning</h1> -->
+  <!-- Boosting state-of-the-art vision-language model with Stable Diffusion -->
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
@@ -18,17 +21,17 @@
     <img alt="Paper" src="https://img.shields.io/badge/👁️ arXiv-2305.16311-b31b1b.svg" style="display: inline-block; vertical-align: middle;"/>
   </a>
   <a href="https://huggingface.co/collections/lxasqjc/lavender-diffusion-instruction-tuning-67af4dc7ec92869e73365325" target="_blank" style="margin: 2px;">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Lavender%20Collections-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20 Hugging%20Face-Lavender%20Collections-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
 
 <div align="center" style="line-height: 2;">
-  <!-- <a href="https://twitter.com/Jinchen027" target="_blank" style="margin: 2px;">
+  <a href="https://twitter.com/Jinchen027" target="_blank" style="margin: 2px;">
     <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-Lavender-white?logo=x&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
   <a href="https://astrazeneca.github.io/vlm/static/images/lavender_wechat.png" target="_blank" style="margin: 2px;">
     <img alt="Wechat" src="https://img.shields.io/badge/WeChat-DeepSeek%20AI-brightgreen?logo=wechat&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a> -->
+  </a>
   <a href="https://www.apache.org/licenses/LICENSE-2.0.txt" style="margin: 2px;">
     <img alt="License" src="https://img.shields.io/badge/License-Apache-yellow" style="display: inline-block; vertical-align: middle;"/>
   </a>
