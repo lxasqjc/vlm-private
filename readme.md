@@ -30,7 +30,7 @@
     <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-Lavender-white?logo=x&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
   <a href="https://astrazeneca.github.io/vlm/static/images/lavender_wechat.png" target="_blank" style="margin: 2px;">
-    <img alt="Wechat" src="https://img.shields.io/badge/WeChat-DeepSeek%20AI-brightgreen?logo=wechat&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+    <img alt="Wechat" src="https://img.shields.io/badge/WeChat-Lavender%20-brightgreen?logo=wechat&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
   <a href="https://www.apache.org/licenses/LICENSE-2.0.txt" style="margin: 2px;">
     <img alt="License" src="https://img.shields.io/badge/License-Apache-yellow" style="display: inline-block; vertical-align: middle;"/>
